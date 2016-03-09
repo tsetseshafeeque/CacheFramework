@@ -1,4 +1,4 @@
-package com.hpe.cache.lrucache.LRUCache;
+package com.hpe.cache.lrucache;
 
 import static org.junit.Assert.*;
 
