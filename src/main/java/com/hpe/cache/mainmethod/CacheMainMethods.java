@@ -28,11 +28,11 @@ public static DynamicCache dc= new DynamicCache(2);
     public static void main(String[] args)
 	{
 	
-          System.out.println("Production one Saju sir ");
+          System.out.println("------------------------------------\n        rev 1.0\n------------------------------------");
 
            do{
               
-            System.out.println("1. Static Cache... \n2. Dynamic Cache... \n3. FIFO Cache... \n4. LRU Cache... \n5. Exit. \n\n Enter your choice:- ");
+            System.out.println("1. Static Cache... \n2. Dynamic Cache... \n3. FIFO Cache... \n4. Exit. \n\n Enter your choice:- ");
             ch=sc.nextInt();
             switch(ch)
             {
@@ -92,7 +92,7 @@ public static DynamicCache dc= new DynamicCache(2);
 			else
 				System.out.println("Key not Found");
 			break;
-		 case 4:System.out.println("Enter key");
+	/*	 case 4:System.out.println("Enter key");
 	     key=sc.nextInt();
 	     System.out.println("Enter value");
 	     value=sc.next();
@@ -103,8 +103,8 @@ public static DynamicCache dc= new DynamicCache(2);
 				System.out.println("Key not Found");
 			break;
 				
-				
-		 case 5: System.exit(1);
+	*/			
+		 case 4: System.exit(1);
 		         break;
 		  default: System.out.println("Invalid choice");
 		 
