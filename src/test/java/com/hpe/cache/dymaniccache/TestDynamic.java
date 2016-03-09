@@ -1,8 +1,10 @@
 package com.hpe.cache.dymaniccache;
+
 import static org.junit.Assert.*;
+
 import org.junit.Test;
 
-public class testDynamic{
+public class TestDynamic{
 
         @Test
         public void test()
