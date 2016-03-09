@@ -9,7 +9,7 @@ package com.hpe.cache.mainmethod;
 
 import com.hpe.cache.dymaniccache.DynamicCache;
 import com.hpe.cache.fifo.FifoCache;
-import com.hpe.cache.lruache.LRUCache;
+import com.hpe.cache.lrucache.LRUCache;
 import com.hpe.cache.staticcahe.StaticCache;
 import java.util.Scanner;
 
