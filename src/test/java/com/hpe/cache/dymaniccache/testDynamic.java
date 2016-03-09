@@ -1,14 +1,14 @@
 package com.hpe.cache.dymaniccache;
-
-import org.junit.Test;
 import static org.junit.Assert.*;
+import org.junit.Test;
+
 public class testDynamic{
 
 	@Test
 	public void test() 
 	{
 		DynamicCache DC = new DynamicCache(3);
-		System.out.println("AddKey Testing : Added");
+		//System.out.println("AddKey Testing : Added");
 		DC.addCache(1, "piyush");
 		DC.addCache(2, "sam");
 		DC.addCache(3, "minu");
