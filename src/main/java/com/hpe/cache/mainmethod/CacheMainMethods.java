@@ -28,7 +28,7 @@ public static DynamicCache dc= new DynamicCache(2);
     public static void main(String[] args)
 	{
 	
-          System.out.println("------------------------------------\n        rev 1.2\n------------------------------------");
+          System.out.println("------------------------------------\n        rev 1.3\n------------------------------------");
 
            do{
               
