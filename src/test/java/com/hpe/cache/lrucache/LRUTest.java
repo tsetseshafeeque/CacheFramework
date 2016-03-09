@@ -1,4 +1,4 @@
-import src.main.java.com.hpe.cache.lrucache;
+import com.hpe.cache.lrucache;
 
 import static org.junit.Assert.*;
 
