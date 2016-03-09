@@ -1,10 +1,10 @@
-package com.hp.cache.imple;
+package com.hp.cache.lrucache;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-public class Junit_Test {
+public class LRUTest {
 
 	
 		
