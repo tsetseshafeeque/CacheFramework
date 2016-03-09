@@ -1,4 +1,4 @@
-package com.hpe.cache.lruache;
+package com.hpe.cache.lrucache;
 
 import com.hpe.cache.interf.CacheInterface;
 import java.util.LinkedHashMap;
