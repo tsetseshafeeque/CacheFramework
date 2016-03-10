@@ -5,7 +5,6 @@
  */
 
 package com.hpe.cache.mainmethod;
-/*1.3*/
 
 
 import com.hpe.cache.dymaniccache.DynamicCache;
