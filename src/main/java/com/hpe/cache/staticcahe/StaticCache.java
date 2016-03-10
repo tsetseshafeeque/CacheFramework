@@ -40,6 +40,8 @@ public class StaticCache extends LinkedHashMap<Integer, String> implements Cache
 	
 	@Override
 	public void addCache(int key, String value) {
+		
+		put(key,value);
               /*	put(1,"Piyush");
                 put(2,"Sam");
                 put(3,"Minu");
