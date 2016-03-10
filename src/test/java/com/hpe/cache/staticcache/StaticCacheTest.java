@@ -1,5 +1,5 @@
 package com.hpe.cache.staticcahe;
-import statis org.junit.Assert.*;
+import static org.junit.Assert.*;
 import org.junit.Test;
 
 public class StaticCacheTest
