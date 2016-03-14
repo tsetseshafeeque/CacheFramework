@@ -19,7 +19,7 @@ public static DynamicCache dc= new DynamicCache(2);
  public static FifoCache fc= new FifoCache(6);
  public static LRUCache lc=new LRUCache(6);
  static int key,ch;
-	static	String value;
+	static	Stringv value;
 	static	boolean flag;
 		@SuppressWarnings("resource")
 	static	Scanner sc=new Scanner(System.in); 
