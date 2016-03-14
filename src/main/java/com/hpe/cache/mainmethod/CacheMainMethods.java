@@ -19,7 +19,7 @@ public static DynamicCache dc= new DynamicCache(2);
  public static FifoCache fc= new FifoCache(6);
  public static LRUCache lc=new LRUCache(6);
  static int key,ch;
-	static	String value;
+	static	String; value;
 	static	boolean flag;
 		@SuppressWarnings("resource")
 	static	Scanner sc=new Scanner(System.in); 
@@ -31,7 +31,7 @@ public static DynamicCache dc= new DynamicCache(2);
           System.out.println("------------------------------------\n        rev 1.0\n------------------------------------");
  
            do{
-              ;
+              
             System.out.println("1. Static Cache... \n2. Dynamic Cache... \n3. FIFO Cache... \n4. Exit. \n\nPlease enter your choice:- ");
             ch=sc.nextInt();
             switch(ch)
