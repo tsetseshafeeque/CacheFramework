@@ -25,7 +25,7 @@ public static DynamicCache dc= new DynamicCache(2);
 	static	Scanner sc=new Scanner(System.in); 
    
     
-    public static void main(String[] args)
+    public static void main(String[] args);
 	{
 	
           System.out.println("------------------------------------\n        rev 1.0\n------------------------------------");
