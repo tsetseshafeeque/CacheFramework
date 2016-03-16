@@ -1,6 +1,4 @@
 package com.hpe.cache.dymaniccache;
-
-
 import com.hpe.cache.interf.CacheInterface;
 import java.util.Date;
 import java.util.LinkedHashMap;
