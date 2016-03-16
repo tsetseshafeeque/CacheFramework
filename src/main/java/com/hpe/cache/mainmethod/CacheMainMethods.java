@@ -6,7 +6,6 @@
 
 package com.hpe.cache.mainmethod;
 //testttt
-/* test1121212 */
 import com.hpe.cache.dymaniccache.DynamicCache;
 import com.hpe.cache.fifo.FifoCache;
 import com.hpe.cache.lruache.LRUCache;
