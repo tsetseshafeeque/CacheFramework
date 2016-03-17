@@ -40,7 +40,7 @@ public static DynamicCache dc= new DynamicCache(2);
             do
 		{
 		 System.out.println("\n 1. Get Cache\n2. Exit\n");
-		 System.out.println("Enter your choice");
+		 System.out.println("Please enter your choice");
 		 ch=sc.nextInt();
 		 switch(ch)
 		 {
