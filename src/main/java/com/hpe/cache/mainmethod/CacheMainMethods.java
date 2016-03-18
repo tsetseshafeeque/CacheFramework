@@ -10,7 +10,7 @@ import com.hpe.cache.fifo.FifoCache;
 import com.hpe.cache.lrucache.LRUCache;
 import com.hpe.cache.staticcache.StaticCache;
 import java.util.Scanner;
-/* test */
+/* test1 */
 public class CacheMainMethods {
 public static DynamicCache dc= new DynamicCache(2);
  public static StaticCache s= new StaticCache(5);
