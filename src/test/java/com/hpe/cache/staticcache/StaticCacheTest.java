@@ -1,4 +1,4 @@
-package com.hpe.cache.staticcahe;
+package com.hpe.cache.staticcache;
 import static org.junit.Assert.*;
 import org.junit.Test;
 
