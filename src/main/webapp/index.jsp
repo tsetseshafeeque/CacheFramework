@@ -15,7 +15,7 @@
     </head>
     <body>
       <%
-       out.println("Testing war");
+       out.println("Testing second war");
        %>
 
 
