@@ -1,4 +1,6 @@
 package com.hpe.cache.dymaniccache;
+
+
 import com.hpe.cache.interf.CacheInterface;
 import java.util.Date;
 import java.util.LinkedHashMap;
@@ -11,9 +13,9 @@ public class DynamicCache extends LinkedHashMap<Integer, String> implements Cach
 	  private static final long serialVersionUID = 1L;
 	  private int capacity;
 
-
+	
 	public DynamicCache(int capacity){
-		   super(capacity+1, 1.0f, true);
+		   super(capacity+1, 1.0f, true); 
 	       this.capacity = capacity;
 	   }
 	
@@ -41,7 +43,7 @@ public class DynamicCache extends LinkedHashMap<Integer, String> implements Cach
 
 	}
 	
-    @Override
+	@Override
 	public void addCache(int key, String value) {
 
 			put(key, value);

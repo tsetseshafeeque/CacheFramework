@@ -3,14 +3,16 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
+/* this is methopd */
 package com.hpe.cache.mainmethod;
+
+
 import com.hpe.cache.dymaniccache.DynamicCache;
 import com.hpe.cache.fifo.FifoCache;
 import com.hpe.cache.lrucache.LRUCache;
-import com.hpe.cache.staticcache.StaticCache;
+import com.hpe.cache.staticcahe.StaticCache;
 import java.util.Scanner;
-/* test1sdsdanq */
+
 public class CacheMainMethods {
 public static DynamicCache dc= new DynamicCache(2);
  public static StaticCache s= new StaticCache(5);
@@ -26,11 +28,11 @@ public static DynamicCache dc= new DynamicCache(2);
     public static void main(String[] args)
 	{
 	
-          System.out.println("Development");
+          System.out.println("------------------------------------\n        Testing\n------------------------------------");
 
            do{
               
-            System.out.println("1. Static Cache... \n2. Dynamic Cache... \n3. FIFO Cache... \n4. LRU Cache... \n5. Exit. \n\n Enter your choice:- ");
+            System.out.println("1. Static Cache... \n2. Dynamic Cache... \n3. FIFO Cache... \n4. LRU Cache\n5. Exit. \n\n Enter your choice:- ");
             ch=sc.nextInt();
             switch(ch)
             {
@@ -40,7 +42,7 @@ public static DynamicCache dc= new DynamicCache(2);
             do
 		{
 		 System.out.println("\n 1. Get Cache\n2. Exit\n");
-		 System.out.println("Please enter your choice");
+		 System.out.println("Enter your choice");
 		 ch=sc.nextInt();
 		 switch(ch)
 		 {
@@ -105,8 +107,7 @@ public static DynamicCache dc= new DynamicCache(2);
 		 case 5: System.exit(1);
 		         break;
 		  default: System.out.println("Invalid choice");
-		 
-				
+		 				
 		 }
 		
 		}while(true);

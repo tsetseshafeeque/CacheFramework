@@ -18,12 +18,12 @@ public class LRUCache extends LinkedHashMap<Integer, String> implements CacheInt
 	       this.capacity = capacity;
 	   }
 	
-	@Override
+	   @Override
 	   protected boolean removeEldestEntry(Map.Entry<Integer, String> eldest){
 	      return size() > this.capacity;
 	   }
 
-@Override
+	@Override
 	public boolean delCache(int key) {
 		String s;
 		s=remove(key);
