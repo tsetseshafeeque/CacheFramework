@@ -10,7 +10,7 @@ package com.hpe.cache.mainmethod;
 import com.hpe.cache.dymaniccache.DynamicCache;
 import com.hpe.cache.fifo.FifoCache;
 import com.hpe.cache.lrucache.LRUCache;
-import com.hpe.cache.staticcahe.StaticCache;
+import com.hpe.cache.staticcache.StaticCache;
 import java.util.Scanner;
 
 public class CacheMainMethods {
