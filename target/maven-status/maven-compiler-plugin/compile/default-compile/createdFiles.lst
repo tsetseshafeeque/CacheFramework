@@ -1,4 +1,3 @@
-com/hpe/cache/lruache/LRUCache.class
 com/hpe/cache/mainmethod/CacheMainMethods.class
 com/hpe/cache/dymaniccache/DynamicCache.class
 com/hpe/cache/interf/CacheInterface.class
