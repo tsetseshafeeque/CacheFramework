@@ -1,9 +1,6 @@
-/home/mcauser/myapp/cacheImplement/src/main/java/com/hpe/cache/fifo/fifoTest.java
-/home/mcauser/myapp/cacheImplement/src/main/java/com/hpe/cache/dymaniccache/DynamicCache.java
-/home/mcauser/myapp/cacheImplement/src/main/java/com/hpe/cache/staticcahe/StaticCache.java
-/home/mcauser/myapp/cacheImplement/src/main/java/com/hpe/cache/mainmethod/CacheMainMethods.java
-/home/mcauser/myapp/cacheImplement/src/main/java/com/hpe/cache/lruache/LRUTest.java
-/home/mcauser/myapp/cacheImplement/src/main/java/com/hpe/cache/dymaniccache/test.java
-/home/mcauser/myapp/cacheImplement/src/main/java/com/hpe/cache/lruache/LRUCache.java
-/home/mcauser/myapp/cacheImplement/src/main/java/com/hpe/cache/fifo/FifoCache.java
-/home/mcauser/myapp/cacheImplement/src/main/java/com/hpe/cache/interf/CacheInterface.java
+/home/jenkins/.jenkins/workspace/CacheFramework_Testing/src/main/java/com/hpe/cache/interf/CacheInterface.java
+/home/jenkins/.jenkins/workspace/CacheFramework_Testing/src/main/java/com/hpe/cache/lrucache/LRUCache.java
+/home/jenkins/.jenkins/workspace/CacheFramework_Testing/src/main/java/com/hpe/cache/mainmethod/CacheMainMethods.java
+/home/jenkins/.jenkins/workspace/CacheFramework_Testing/src/main/java/com/hpe/cache/dymaniccache/DynamicCache.java
+/home/jenkins/.jenkins/workspace/CacheFramework_Testing/src/main/java/com/hpe/cache/fifo/FifoCache.java
+/home/jenkins/.jenkins/workspace/CacheFramework_Testing/src/main/java/com/hpe/cache/staticcache/StaticCache.java

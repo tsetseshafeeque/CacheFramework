@@ -1,6 +1,4 @@
-com/hpe/cache/lruache/LRUCache.class
 com/hpe/cache/mainmethod/CacheMainMethods.class
-com/hpe/cache/dymaniccache/DynamicCache.class
 com/hpe/cache/interf/CacheInterface.class
+com/hpe/cache/dymaniccache/DynamicCache.class
 com/hpe/cache/fifo/FifoCache.class
-com/hpe/cache/staticcahe/StaticCache.class

@@ -1,3 +1,4 @@
-/mnt/hgfs/softwarehpe/CacheInterface/src/test/java/com/hpe/cache/fifo/FifoTest.java
-/mnt/hgfs/softwarehpe/CacheInterface/src/test/java/com/hpe/cache/dymaniccache/TestDynamic.java
-/mnt/hgfs/softwarehpe/CacheInterface/src/test/java/com/hpe/cache/lrucache/LRUTest.java
+/home/jenkins/.jenkins/workspace/CacheFramework_Testing/src/test/java/com/hpe/cache/lrucache/LRUTest.java
+/home/jenkins/.jenkins/workspace/CacheFramework_Testing/src/test/java/com/hpe/cache/dymaniccache/TestDynamic.java
+/home/jenkins/.jenkins/workspace/CacheFramework_Testing/src/test/java/com/hpe/cache/staticcache/StaticCacheTest.java
+/home/jenkins/.jenkins/workspace/CacheFramework_Testing/src/test/java/com/hpe/cache/fifo/fifoTest.java
