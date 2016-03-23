@@ -1,1 +1,4 @@
+com/hpe/cache/staticcache/StaticCacheTest.class
 com/hpe/cache/dymaniccache/TestDynamic.class
+com/hpe/cache/lrucache/LRUTest.class
+com/hpe/cache/fifo/fifoTest.class
