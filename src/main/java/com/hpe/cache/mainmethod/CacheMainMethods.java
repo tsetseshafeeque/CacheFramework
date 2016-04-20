@@ -12,7 +12,7 @@ import com.hpe.cache.staticcache.StaticCache; //code
 import java.util.Scanner;
 /* test1sdsdanq  */
 public class CacheMainMethods {
-public static DynamicCache dc= new DynamicCache(2);
+public static DynamicCache dc= new DynamicCache(2); // VJJJ
  public static StaticCache s= new StaticCache(5);
  public static FifoCache fc= new FifoCache(6);
  public static LRUCache lc=new LRUCache(6);
