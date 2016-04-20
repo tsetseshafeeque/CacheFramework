@@ -8,7 +8,7 @@ package com.hpe.cache.mainmethod;
 import com.hpe.cache.dymaniccache.DynamicCache;
 import com.hpe.cache.fifo.FifoCache;
 import com.hpe.cache.lrucache.LRUCache;
-import com.hpe.cache.staticcache.StaticCache;
+import com.hpe.cache.staticcache.StaticCache; //code
 import java.util.Scanner;
 /* test1sdsdanq  */
 public class CacheMainMethods {
