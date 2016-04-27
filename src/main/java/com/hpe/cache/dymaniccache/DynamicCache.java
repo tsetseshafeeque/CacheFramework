@@ -14,7 +14,7 @@ public class DynamicCache extends LinkedHashMap<Integer, String> implements Cach
 	  private int capacity;
 
 
-	public DynamicCache(int capacity){
+	public DynamicCache(int capacity){//hh
 		   super(capacity+1, 1.0f, true);
 	       this.capacity = capacity;
 	   }
