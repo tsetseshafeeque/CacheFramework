@@ -9,7 +9,7 @@ package com.hpe.cache.fifo;
 import com.hpe.cache.interf.CacheInterface;
 import java.util.Date;
 import java.util.LinkedHashMap;
-import java.util.Map;//trial
+import java.util.Map;
 
 
 public class FifoCache extends LinkedHashMap<Integer, String> implements CacheInterface {
