@@ -15,7 +15,7 @@ import java.util.Map;
 public class FifoCache extends LinkedHashMap<Integer, String> implements CacheInterface {
 
 	  private static final long serialVersionUID = 1L;
-	  private int capacity;
+	  private int capacity;//tri
 
 	
 	public FifoCache(int capacity){
