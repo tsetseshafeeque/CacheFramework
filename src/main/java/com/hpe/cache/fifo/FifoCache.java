@@ -19,7 +19,7 @@ public class FifoCache extends LinkedHashMap<Integer, String> implements CacheIn
 
 	
 	public FifoCache(int capacity){
-		   super(capacity+1, 1.0f, true); 
+		   super(capacity+1, 1.0f, true); //trial
 	       this.capacity = capacity;
 	   }
 	
