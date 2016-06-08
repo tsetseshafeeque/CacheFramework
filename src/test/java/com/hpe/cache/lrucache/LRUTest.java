@@ -18,7 +18,7 @@ public class LRUTest {
 		lru.addCache(5,"vbnm");
 		lru.addCache(6,"tyui");
 		
-		assertEquals("vbnm",lru.getCache(5));
+		assertEquals("vbnmu",lru.getCache(5));
 		assertNotEquals("vbnm",lru.getCache(1));
 		
 		lru.addCache(7, "dfgh");
