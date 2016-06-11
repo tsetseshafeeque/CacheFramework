@@ -26,11 +26,11 @@ public static DynamicCache dc= new DynamicCache(2);
     public static void main(String[] args)
 	{
 	
-          System.out.println("Production one Saju sir ");
+          System.out.println("Production for  Saju sir ");
 
            do{
               
-            System.out.println("1. Static Cache... \n2. Dynamic Cache... \n3. FIFO Cache... \n4. LRU Cache... \n5. Exit. \n\n Enter your choice:- ");
+            System.out.println("1. Static Cache... \n2. Dynamic Cache... \n3. FIFO Cache... \n4. LRU Cache... \n5. Exit. \n\n Please enter your choice:- ");
             ch=sc.nextInt();
             switch(ch)
             {
@@ -40,7 +40,7 @@ public static DynamicCache dc= new DynamicCache(2);
             do
 		{
 		 System.out.println("\n 1. Get Cache\n2. Exit\n");
-		 System.out.println("Enter your choice");
+		 System.out.println("Please enter your choice");
 		 ch=sc.nextInt();
 		 switch(ch)
 		 {
